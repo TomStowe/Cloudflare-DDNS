@@ -1,0 +1,21 @@
+{
+    "cloudflareAccounts": [
+        {
+            "authentication": {
+                "email": "",
+                "key": "",
+                "token": ""
+            },
+            "dnsDetails": [
+                {
+                    "name": "",
+                    "proxied": false,
+                    "ttl": 1,
+                    "type": "A"
+                }
+            ],
+            "zoneId": ""
+        }
+    ],
+    "minutesBetweenChecks": 5
+}
