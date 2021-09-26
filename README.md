@@ -17,7 +17,7 @@ A simple dynamic domain name server solution for cloudflare.
 * Schedule the DDNS script to run on startup of the machine. For example using a cron job: run `crontab -e` and add `@reboot /usr/bin/python3 CURRENT_DIRECTORY/main.py`
 
 ## 🎓 Licence
-This software is released under the [GNU AGPLv3](blob/main/LICENSE) licence
+This software is released under the [GNU AGPLv3](LICENSE) licence
 
 ## 👨 The Author
 [Please click here to see more of my work!](https://tomstowe.co.uk)
