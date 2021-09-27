@@ -8,7 +8,7 @@ A simple dynamic domain name server solution for cloudflare.
 * Open source
 
 ## 🔧 Setup
-* Download the git repo using `git clone ...`
+* Download the git repo using `git clone https://github.com/TomStowe/Cloudflare-DDNS`
 * Update `config.json` with the following values for each cloudflare domain:
   * Add your authentication details (either your email address and key or your token which is capable of **edit DNS** functionality). Find out more [here](https://developers.cloudflare.com/api/tokens/create)
   * Add the `zoneId`, found [in the overview tab of the cloudflare dashboard](https://community.cloudflare.com/t/where-to-find-zone-id/132913)
